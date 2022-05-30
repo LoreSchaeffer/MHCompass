@@ -1,0 +1,7 @@
+name: MHCompass
+version: 1.0.0
+main: it.multicoredev.MHCompass
+author: LoreSchaeffer
+commands:
+  manhuntcompass:
+    aliases: ["mhcompass", "mhc"]

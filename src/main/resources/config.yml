@@ -1,0 +1,13 @@
+messages:
+  insufficient-perms: "&cInsufficient permissions"
+  usage: "&cUsage: /mhc <add|remove|clear|start|stop> [player]"
+  player-not-found: "&cPlayer not found"
+  player-added: "&hAdded &e&l{player}&h to runners"
+  player-removed: "&hRemoved &e&l{player}&h from runners"
+  runners-cleared: "&hCleared runners"
+  listeners-started: "&hStarted listeners"
+  listeners-stopped: "&hStopped listeners"
+  listeners-already-running: "&cListeners already running"
+  listeners-not-running: "&cListeners already stopped"
+  cannot-track: "&cCannot track anyone"
+  tracking-nearest: "&hTracking &e&l{player}&h. Distance &6&l{distance}"
