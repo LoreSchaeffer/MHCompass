@@ -41,6 +41,7 @@ public class MHCompass extends JavaPlugin {
     private boolean running = false;
     
     //TODO non permettere l'uso della seconda mano per la bussola
+    //TODO permettere di disabilitare la bussola nelle altre dimensioni
 
     @Override
     public void onEnable() {
